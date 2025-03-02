@@ -8,6 +8,7 @@
         "fsl_debug_console.h": "c",
         "app.h": "c",
         "board.h": "c",
-        "mbedtls_config.h": "c"
+        "mbedtls_config.h": "c",
+        "aes.h": "c"
     }
 }
